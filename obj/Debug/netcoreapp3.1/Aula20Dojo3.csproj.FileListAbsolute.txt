@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\bin\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula20Dojo3\obj\Debug\netcoreapp3.1\Aula20Dojo3.genruntimeconfig.cache
